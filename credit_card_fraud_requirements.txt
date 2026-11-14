@@ -1,0 +1,4 @@
+# Python dependencies for the Credit Card Fraud Detection project
+numpy
+pandas
+scikit-learn
